@@ -30,7 +30,7 @@ El curso ofrece un enfoque moderno en la educación, reconociendo el valor de lo
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/discmath/blob/master/laboratory/notebooks/01_discmath_pythoncrashcourse.ipynb)
 - Notebook Python Homework [[descargar]](https://github.com/marcoteran/discmath/blob/master/laboratory/notebooks/05_progfund_pythoncrashcoursehomework.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/discmath/blob/master/laboratory/notebooks/02_discmath_pythoncrashcoursehomework.ipynb)
-	* <sub>**[[cargar]](https://forms.office.com/r/pymbQZVxG3) (*deadline:* 12/08/2023)**</sub>
+	* **[[cargar]](https://forms.office.com/r/pymbQZVxG3) <sub>(*deadline:* 12/08/2023)</sub>**
 
 ---
 ## Material adicional
