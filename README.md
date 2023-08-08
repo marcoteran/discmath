@@ -22,7 +22,7 @@ El curso ofrece un enfoque moderno en la educación, reconociendo el valor de lo
 0. **Presentación del curso *Matemáticas Discretas***
 	* Descargar presentación [[PDF]](https://github.com/marcoteran/discmath/raw/master/lectures/00_discmath_syllabus.pdf)
 
-1. **Lógica***
+1. **Lógica proposicional**
 	* Descargar presentación [[PDF]](https://github.com/marcoteran/discmath/raw/master/lectures/01_discmath_logic.pdf)
 ---
 ## Laboratorios
