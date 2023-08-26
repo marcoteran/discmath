@@ -24,7 +24,8 @@ El curso ofrece un enfoque moderno en la educación, reconociendo el valor de lo
 
 1. **Lógica***
 	* Descargar presentación [[PDF]](https://github.com/marcoteran/discmath/raw/master/lectures/01_discmath_logic.pdf)
----
+		- **Taller: Introducción a la lógica matemática** [[PDF]](https://github.com/marcoteran/discmath/raw/master/homeworks/discmath_ttq_logic.pdf)
+
 ## Laboratorios
 - Notebook Curso corto de Python [[descargar]](https://github.com/marcoteran/discmath/blob/master/laboratory/notebooks/03_progfund_pythoncrashcourse.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/discmath/blob/master/laboratory/notebooks/01_discmath_pythoncrashcourse.ipynb)
