@@ -35,7 +35,9 @@ El curso ofrece un enfoque moderno en la educación, reconociendo el valor de lo
 		<sub>Para cargar el notebook, primero debe estar autenticado con su correo institucional.</sub>
 
 ---
-## Material adicional
+## Examenes
+
+* Examen de primer corte [[ENTRAR]](https://forms.office.com/r/yzHFTYPnAH)
 
 
 ---
