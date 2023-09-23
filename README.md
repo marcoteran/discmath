@@ -28,8 +28,10 @@ El curso ofrece un enfoque moderno en la educación, reconociendo el valor de lo
 
 2. **Teoría de conjuntos**
 	* Descargar presentación [[PDF]](https://github.com/marcoteran/discmath/raw/master/lectures/02_discmath_settheory.pdf)
+		- **Taller: Problemas de conjuntos** [[PDF]](https://github.com/marcoteran/discmath/raw/master/homeworks/discmath_ttq_problemasdeconjuntos.pdf)
 
 
+---
 ## Laboratorios
 - Notebook Curso corto de Python [[descargar]](https://github.com/marcoteran/discmath/blob/master/laboratory/notebooks/01_discmath_pythoncrashcourse.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/discmath/blob/master/laboratory/notebooks/01_discmath_pythoncrashcourse.ipynb)
